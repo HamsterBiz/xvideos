@@ -5,7 +5,7 @@ document.writeln( '<a href="https://pornhubapp.xyz/view_video.php?viewkey=ph5ec6
 
 document.writeln( '<a href="https://xvideoshub.best-xvideos-freeporn.com/view_video.php?viewkey=ph5eba30f52a08d"  target="_blank"> <span class="metadata-btn"><span class="rating-box value">老婆在睡觉，和小姨子在旁边做爱</span></span></a> '); 
 
-document.writeln( '<a href="https://youjizzfreeporn.xyz/view_video.php?viewkey=ph5e533a7df20fc"  target="_blank"> <span class="metadata-btn"><span class="rating-box value">偷拍农名工操逼</span></span></a> '); 
+document.writeln( '<a href="https://bestfreeporntube.xyz/view_video.php?viewkey=ph5e533a7df20fc"  target="_blank"> <span class="metadata-btn"><span class="rating-box value">偷拍农名工操逼</span></span></a> '); 
 
 
 
