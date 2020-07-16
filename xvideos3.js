@@ -11,7 +11,7 @@ domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
 domain[6] = "https://bestfreeporntube.xyz/video/search?search=";
-domain[7] = "https://qqavjzy.xxbvideo.com/?k=";
+domain[7] = "https://qqavjzy.sexscenes.xyz/?k=";
 domain[8] = "https://best-xvideos-freeporn.com/?k=";
 domain[9] = "https://xvideoshub.best-xvideos-freeporn.com/video/search?search=";
 domain[10] = "https://cut1.bestxfilm.xyz/search/";
@@ -32,8 +32,8 @@ t= Math.floor(t);
 		 
 		 
 }
- document.writeln( '<a href="http://xxbvideo.com" target="_blank"><span class="metadata-btn"><span class="rating-box value">复仇者淫盟</span></span></a>');
- document.writeln( '<a href="http://ad1.xxbvideo.com" target="_blank"><span class="metadata-btn"><span class="rating-box value">含羞草高清视频</span></span></a>');
+ document.writeln( '<a href="http://sexscenes.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">复仇者淫盟</span></span></a>');
+ document.writeln( '<a href="http://ad1.sexscenes.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">含羞草高清视频</span></span></a>');
 document.writeln( '<a href="https://700wav.best" target="_blank"><span class="metadata-btn"><span class="rating-box value">700万AV</span></span></a>');
 document.writeln( '<a href="https://800w.bestxfilm.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">800万AV</span></span></a>');
 document.writeln( '<a href="https://pornhdxvideos.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Pornhub</span></span></a>');
